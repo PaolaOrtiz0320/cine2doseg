@@ -3,6 +3,7 @@
 //Integrantes:
 //Moedano Alcántara María Fernanda
 //Ortiz Velazquez Gabriela Paola 
+//Soto Cadena Alan
 using System;
 using System.Web.Http;
 using apiRESTCine.Models;

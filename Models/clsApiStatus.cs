@@ -3,6 +3,8 @@
 //Integrantes:
 //Moedano Alcántara María Fernanda
 //Ortiz Velazquez Gabriela Paola 
+//Soto Cadena Alan
+
 using Newtonsoft.Json.Linq;
 
 namespace apiRESTCine.Models
