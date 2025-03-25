@@ -10,8 +10,9 @@ webApi (apiRESTCheckUsuario)
 Luis Alejandro Santana Valadez
 
 # EstudianteS:
--Gabriela Paola Ortiz Velazquez 21200656
--Maria Fernanda Moedano Alcantara 
+-Gabriela Paola Ortiz Velazquez 21200659
+-Maria Fernanda Moedano Alcantara 21200656
+-Alan Soto Cadena 21200666
 
 
 # Carrera:
